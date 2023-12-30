@@ -1,0 +1,3 @@
+[submodule "semantic-kernel-rag-chat"]
+	path = semantic-kernel-rag-chat
+	url = https://github.com/Azure-Samples/semantic-kernel-rag-chat
